@@ -100,7 +100,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at khairzad9@gmail.com or by post to:
 
-Khair zad - خير زاد
-57 Noor Eleslam street - Cairo
-Cairo, Cairo 11311
-Egypt
+Khair zad - خير زاد <br>
+57 Noor Eleslam street - Cairo<br>
+Cairo, Cairo 11311<br>
+Egypt<br>
